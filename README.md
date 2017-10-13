@@ -1,4 +1,4 @@
-# Učimo Javu
+# Učimo OOP kroz Javu
 
 Vežbe po knjizi: Head First Object-Oriented Analysis & Design
 
